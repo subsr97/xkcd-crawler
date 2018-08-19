@@ -2,7 +2,7 @@
 
 ## Intro
 
-A Web Scraper that scrapes [XKCD Comics](https://xkcd.com/) using Scrapy. 
+A Web Scraper that scrapes data off [XKCD Comics](https://xkcd.com/) using Scrapy. 
 
 ## Scraped Contents
 
