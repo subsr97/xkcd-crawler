@@ -4,6 +4,12 @@
 
 A Web Scraper that scrapes [XKCD Comics](https://xkcd.com/) using Scrapy. 
 
+## Scraped Contents
+
+* Title
+* Whole comic's URL
+* Comic image's URL
+* Transcript of the comic (if present)
 
 ## Requirements
 
