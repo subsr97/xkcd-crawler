@@ -7,7 +7,7 @@ A Web Scraper that scrapes data off [XKCD Comics](https://xkcd.com/) using Scrap
 ## Scraped Contents
 
 * Title
-* Whole comic's URL
+* Comic's URL
 * Comic image's URL
 * Transcript of the comic (if present)
 
